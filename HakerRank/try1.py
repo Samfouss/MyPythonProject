@@ -1,0 +1,1 @@
+x, y, z, n = (int(input('Give a number')) for _ in range(4))
